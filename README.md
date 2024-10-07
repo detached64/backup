@@ -1,2 +1,3 @@
 # backup
-backups of source codes.
+Backups of source code.
+Open source code follows its respective open source licenses.
