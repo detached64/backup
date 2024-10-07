@@ -10,3 +10,5 @@ Open source code follows its respective open source licenses.
 2. [GalgameCoding](https://github.com/jwcloverain/GalgameCoding)
 3. [SiglusEngine](https://github.com/Tnt6n2/SiglusEngine)
 4. [SiglusEngineOfficialKit](https://github.com/imKota/SiglusEngineOfficialKit) (release)
+5. [ExtractData(en)](https://github.com/lioncash/ExtractData)
+6. ExtractData120_src(jp)
