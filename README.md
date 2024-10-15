@@ -13,3 +13,4 @@ Open source code follows its respective open source licenses.
 5. [ExtractData(en)](https://github.com/lioncash/ExtractData)
 6. ExtractData120_src(jp)
 7. [GalgameReverse](https://github.com/YeLikesss/GalgameReverse)
+8. [RoiDecode](https://drive.google.com/file/d/1aL8iG_w7mLC7FhSYd_fbC_AdOxrPjUfs/view)
