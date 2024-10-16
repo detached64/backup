@@ -8,15 +8,6 @@ See extended description of commits for details.
 Open source code follows its respective open source licenses.
 
 ## list
-- [Light.vnTools](https://github.com/jwcloverain/Light.vnTools)
-- [GalgameCoding](https://github.com/jwcloverain/GalgameCoding)
-- [SiglusEngine](https://github.com/Tnt6n2/SiglusEngine)
-- [SiglusEngineOfficialKit](https://github.com/imKota/SiglusEngineOfficialKit) (release)
-- [ExtractData(en)](https://github.com/lioncash/ExtractData)
-- ExtractData120_src(jp)
-- [GalgameReverse](https://github.com/YeLikesss/GalgameReverse)
-- [RoiDecode](https://drive.google.com/file/d/1aL8iG_w7mLC7FhSYd_fbC_AdOxrPjUfs/view)
-
 <details>
   <summary>Westside</summary>
   
@@ -30,4 +21,26 @@ Open source code follows its respective open source licenses.
   - Collections (onedrive)
 
     - [Westside](https://yosuga-my.sharepoint.com/:f:/g/personal/refrain60_yosuga_onmicrosoft_com/EskKSAi8L8BNtdVV15V_kUABCi6Qw9lPXkfQwEPWUcqNEQ?e=cSkIRF)
+</details>
+<details>
+  <summary>Tools</summary>
+
+  - Source code
+
+    - [Light.vnTools](https://github.com/jwcloverain/Light.vnTools)
+    - [ExtractData(en)](https://github.com/lioncash/ExtractData)
+    - ExtractData120_src(jp)
+    - [GalgameReverse](https://github.com/YeLikesss/GalgameReverse)
+  - [RoiDecode](https://drive.google.com/file/d/1aL8iG_w7mLC7FhSYd_fbC_AdOxrPjUfs/view)
+</details>
+<details>
+  <summary>Tutorials</summary>
+  
+  - [GalgameCoding](https://github.com/jwcloverain/GalgameCoding)
+</details>
+<details>
+  <summary>Leaks</summary>
+  
+  - [SiglusEngine](https://github.com/Tnt6n2/SiglusEngine)
+  - [SiglusEngineOfficialKit](https://github.com/imKota/SiglusEngineOfficialKit) (release)
 </details>
