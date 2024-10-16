@@ -29,5 +29,5 @@ Open source code follows its respective open source licenses.
 
   - Collections (onedrive)
 
-  - [Westside](https://yosuga-my.sharepoint.com/:f:/g/personal/refrain60_yosuga_onmicrosoft_com/EskKSAi8L8BNtdVV15V_kUABCi6Qw9lPXkfQwEPWUcqNEQ?e=cSkIRF)
+    - [Westside](https://yosuga-my.sharepoint.com/:f:/g/personal/refrain60_yosuga_onmicrosoft_com/EskKSAi8L8BNtdVV15V_kUABCi6Qw9lPXkfQwEPWUcqNEQ?e=cSkIRF)
 </details>
