@@ -43,6 +43,6 @@ Open source code follows its respective open source licenses.
   
   - [SiglusEngine](https://github.com/Tnt6n2/SiglusEngine)
   - [SiglusEngineOfficialKit](https://github.com/imKota/SiglusEngineOfficialKit) (release)
-  - [Liminal Border Part I(tjs scripts uncompiled)](https://yosuga-my.sharepoint.com/:u:/g/personal/refrain60_yosuga_onmicrosoft_com/EY7FzhRCJQxCrWhIHoQp178BBHYLXrn3quuEPXFHQcMaDg?e=38r9ta)
-  - [Tamayura Mirai(tjs scripts uncompiled)](https://yosuga-my.sharepoint.com/:u:/g/personal/refrain60_yosuga_onmicrosoft_com/EXv7A2eby1tJhRN_wMF1oyUBfaZpzimEA1XGskT4ok2RFA?e=haUBnE)
+  - [Liminal Border Part I(tjs scripts uncompiled)](https://yosuga-my.sharepoint.com/:u:/g/personal/refrain60_yosuga_onmicrosoft_com/EY7FzhRCJQxCrWhIHoQp178BBHYLXrn3quuEPXFHQcMaDg?e=38r9ta) (onedrive)
+  - [Tamayura Mirai(tjs scripts uncompiled)](https://yosuga-my.sharepoint.com/:u:/g/personal/refrain60_yosuga_onmicrosoft_com/EXv7A2eby1tJhRN_wMF1oyUBfaZpzimEA1XGskT4ok2RFA?e=haUBnE) (onedrive)
 </details>
