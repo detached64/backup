@@ -16,11 +16,18 @@ Open source code follows its respective open source licenses.
 - ExtractData120_src(jp)
 - [GalgameReverse](https://github.com/YeLikesss/GalgameReverse)
 - [RoiDecode](https://drive.google.com/file/d/1aL8iG_w7mLC7FhSYd_fbC_AdOxrPjUfs/view)
-- [westside-djibr4cv.zip](https://moeblog.cn/338.html)
-- [westside-djibr4cv.lzh](https://www.box.com/s/as3t2xg9v8hkz2l9qt3k)
-- [westside-nekof3cv](https://mega.nz/file/fzoGlYRZ#1zLD1_j9eGV4E8UPgxqNWOHA8KNJRz8Ww3oKYyar_eg)
-- [westside-mankchcv](https://mega.nz/file/UZxkgZKK#B5D7gBDYk67dqwB5hkA7eddwqmHVXer4VWsKDPbZhUw)
-- [WESTSIDE Otanoshimi CD1-97](https://yosuga-my.sharepoint.com/:u:/g/personal/refrain60_yosuga_onmicrosoft_com/EQ8M7m3K6mtIoJ58W51eKKIBBDtXqFhapkNhvQR_I64pIQ?e=MsrBUL) (onedrive)
-- [WESTSIDE お楽しみCD64](https://yosuga-my.sharepoint.com/:u:/g/personal/refrain60_yosuga_onmicrosoft_com/EcLVdhP8V8lEiCcmqN8z248BpnPgOsszeyzBtkE9Rf0W0A?e=ElRdtC) (onedrive)
-- [WESTSIDE お楽しみCD ボーナスパック Special](https://yosuga-my.sharepoint.com/:u:/g/personal/refrain60_yosuga_onmicrosoft_com/EY2Buu9DvKpHjextD56Nm1UBLZ530g08kbKaoqcXd6e8mA?e=eLbIT9) (onedrive)
-- [WESTSIDE お楽しみCD63](https://yosuga-my.sharepoint.com/:u:/g/personal/refrain60_yosuga_onmicrosoft_com/EUPBX1bu0ohJo5vcXlJ_tccBN3ttWYEZ9gg13Nqre6Jt4A?e=RAa4e5) (onedrive)
+
+<details>
+  <summary>Westside</summary>
+  
+  - Single tools
+
+    - [westside-djibr4cv.zip](https://moeblog.cn/338.html)
+    - [westside-djibr4cv.lzh](https://www.box.com/s/as3t2xg9v8hkz2l9qt3k)
+    - [westside-nekof3cv](https://mega.nz/file/fzoGlYRZ#1zLD1_j9eGV4E8UPgxqNWOHA8KNJRz8Ww3oKYyar_eg)
+    - [westside-mankchcv](https://mega.nz/file/UZxkgZKK#B5D7gBDYk67dqwB5hkA7eddwqmHVXer4VWsKDPbZhUw)
+
+  - Collections (onedrive)
+
+  - [Westside](https://yosuga-my.sharepoint.com/:f:/g/personal/refrain60_yosuga_onmicrosoft_com/EskKSAi8L8BNtdVV15V_kUABCi6Qw9lPXkfQwEPWUcqNEQ?e=cSkIRF)
+</details>
