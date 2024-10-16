@@ -1,5 +1,5 @@
 # backup
-Backups of source code/utilities.
+Backups of source code/utilities about galgame(?).
 
 See releases or onedrive links for large files.
 
