@@ -30,6 +30,7 @@ Open source code follows its respective open source licenses.
 | GalgameReverse     | Source code. Full ver.                       | https://github.com/YeLikesss/GalgameReverse                  |
 | Crass              | Source code&binary.                          | https://app.box.com/s/rf8rhr5mrr                             |
 | RoiDecode          | Source code&binary.                          | https://drive.google.com/file/d/1aL8iG_w7mLC7FhSYd_fbC_AdOxrPjUfs/view |
+| Quickbms           | Source code&binary.                          | https://aluigi.altervista.org/quickbms.htm                   |
 
 ### Tutorials
 
@@ -45,5 +46,5 @@ Open source code follows its respective open source licenses.
 | SiglusEngine            | Leaked source of SiglusEngine.        | https://github.com/Tnt6n2/SiglusEngine            |
 | SiglusEngineOfficialKit | Leaked SDK of SiglusEngine.           | https://github.com/imKota/SiglusEngineOfficialKit |
 | EnigneSulgis            | Maybe another source of SiglusEngine. | https://github.com/SuperGalaxy3000/EnigneSulgis   |
-| Liminal Border Part I   | tjs inside not compiled.              | --                                                |
-| Tamayura Mirai          | tjs inside not compiled.              | --                                                |
+| Liminal Border Part I   | Kirikiri tjs inside not compiled.     | --                                                |
+| Tamayura Mirai          | Kirikiri tjs inside not compiled.     | --                                                |
