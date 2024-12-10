@@ -31,6 +31,7 @@ Open source code follows its respective open source licenses.
 | Crass              | Source code&binary.                          | https://app.box.com/s/rf8rhr5mrr                             |
 | RoiDecode          | Source code&binary.                          | https://drive.google.com/file/d/1aL8iG_w7mLC7FhSYd_fbC_AdOxrPjUfs/view |
 | Quickbms           | Source code&binary.                          | https://aluigi.altervista.org/quickbms.htm                   |
+| EntisGLS4.07.01    | Source code&SDK.                             | https://www.entis.jp/gls/bin/EntisGLS4.07.01.zip             |
 
 ### Tutorials
 
